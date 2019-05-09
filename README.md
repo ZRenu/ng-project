@@ -1,10 +1,11 @@
-# 鹿途后台管理系统基础框架
+# [鹿途](https://github.com/ZhouRenYou/ng-deerway)后台管理系统基础框架
 
-[鹿途](https://github.com/ZhouRenYou/ng-deerway)
+[Live](https://angular6-project.netlify.com)
+
 
 ##  项目说明
 
-项目是一个干净可移植的基础框架，即开即用。
+Angular6基础框架。
 
 ## 版本说明
 
@@ -32,11 +33,14 @@ constructor( @Inject(DA_SERVICE_TOKEN) private tokenService: TokenService) {
 }
 ```
 
-## 第三方资源
+## 项目资源
 
-图标：[iconfont](http://iconfont.cn)
 
-地图：[baidumaps](http://lbsyun.baidu.com/)
+地图：[maps](http://lbsyun.baidu.com/)
 
 图表：[echarts](http://echarts.baidu.com/index.html)
+
+用户认证：[@delon/auth](https://ng-alain.com/auth/getting-started)
+
+项目框架：[ng-zorro](https://ng.ant.design/version/1.8.x/)
 
